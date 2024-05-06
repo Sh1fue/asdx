@@ -1,0 +1,127 @@
+*{
+    font-family: "Montserrat", sans-serif ;
+    margin: 0;
+    padding: 0;
+    padding: 0 10px;
+    background-color: #0C0E18;
+    color: #f0f8ff;
+
+}
+.content{
+padding-left: 260px;
+}
+.main{
+    padding-left: 230px;
+}
+.header-value {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding-top: 80px;
+}
+
+.header-value ol {
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    margin-right: 300px;
+    font-size:20px;
+}
+.header-value img{
+    padding-left: 270px;
+}
+.type-sport{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 30px;
+}
+.type-sport img {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.disciplines-about li{
+    font-size: 24px;
+    padding-top: 27px;
+}
+
+.footer {
+    padding-left: 260px;
+    background-color: #07070B;
+    background-size: cover;
+    background-position: center;
+}
+
+.footer img {
+    display: block; /* Чтобы изображение отображалось как блочный элемент */
+    margin-top: 30px; /* Установка верхнего отступа для изображения */
+}
+.content-cost{
+    padding: 70px 0 0 260px;
+
+}
+.card-item{
+    display: flex;
+    flex-wrap: wrap;    
+    border: 2px solid white;
+    width: 370px;
+    height: 170px;
+    border-radius: 15px;
+    padding: 12px 0 0 10px;
+    margin-top: 60px;
+}
+
+
+/*диспциплины */
+
+
+
+
+
+.main-content{
+    padding-left: 260px;
+}
+.content-container {
+    font-size: 24px;
+}
+.content-container h2{
+    font-size: 48px;
+    padding: 110px 0 0 0;
+}
+.content-container li{
+    padding-top: 25px;
+}
+.content-container ol{
+    padding: 30px 0 0 30px;
+}
+
+.content-container p {
+    padding: 30px 0 0 0 ;
+}
+.photo-gallery{
+    padding: 90px 0 0 0px;
+}
+.photo-gallery{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cost-train h4{
+    font-size: 30px;
+}
+.cost-train p {
+    font-size: 24px;
+}
+.card-items{    
+    border: 2px solid white;
+    width: 340px;
+    height: 170px;
+    border-radius: 15px;
+    padding: 12px 0 0 10px;
+    margin-top: 60px;
+}
+.card-seller{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
